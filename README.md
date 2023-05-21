@@ -59,4 +59,4 @@ This repository was created by Ghassen Ben Hadj Amor.
 
 ## References
 
-[^1^][1]: Binary Tree Data Structure - GeeksforGeeks https://www.geeksforgeeks.org/binary-tree-data-structure/
+[1]: Binary Tree Data Structure - GeeksforGeeks https://www.geeksforgeeks.org/binary-tree-data-structure/
