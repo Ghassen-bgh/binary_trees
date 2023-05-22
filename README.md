@@ -55,7 +55,7 @@ You can also use your own files to test other functions or create your own binar
 
 ## Author
 
-This repository was created by Ghassen Ben Hadj Amor.
+This repository was created by Ghassen Boughammoura.
 
 ## References
 
